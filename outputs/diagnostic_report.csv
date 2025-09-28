@@ -1,0 +1,10 @@
+issue,count,examples,recommendation
+Stockouts detected,1,['NT-TABLET-P6'],Restock immediately to avoid lost sales.
+Higher prices vs competitors,18,"['NT-EARBUD-X1', 'NT-EARBUD-X1', 'NT-EARBUD-X1']",Revisit pricing strategy or improve product differentiation.
+Low return on marketing spend (ROI < 1.2),0,[],Optimize ad targeting or pause underperforming campaigns.
+Ad spend wasted on zero-conversion products,0,[],Pause or redirect budget to performing campaigns.
+Stale or poor-quality marketplace listings,1,['2025-09-26T14:30:00Z'],"Refresh titles, images, and descriptions for better visibility."
+Amazon listings with poor content quality,2,"['NovaTech Wireless Earbuds X1 - Active Noise Cancelling', 'NovaTech 10.5"" Tablet P6 (128GB)']","Fix bullets, add enhanced content, improve images."
+Products missing descriptions,0,[],Add detailed descriptions to improve SEO and conversions.
+High-priority products at risk of stockout,1,['NT-TABLET-P6'],Replenish Tier A SKUs to protect key revenue drivers.
+Competitor promotions and new launches,2,"[""TechPro - ['TechPro Elite Buds']"", ""AudioMax - ['earbuds', 'speakers']""]",Prepare counter-promotions or highlight differentiators.

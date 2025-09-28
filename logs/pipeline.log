@@ -1,0 +1,10 @@
+2025-09-28 17:21:22,978 - INFO - Starting report generation pipeline...
+2025-09-28 17:21:22,978 - INFO - Loading datasets...
+2025-09-28 17:21:22,984 - INFO - Datasets loaded successfully.
+2025-09-28 17:21:22,984 - INFO - Running analysis...
+2025-09-28 17:21:22,987 - INFO - Analysis completed. Found 2 insights.
+2025-09-28 17:21:22,988 - INFO - Output directory ready at D:\Commerce_iq_assessment\outputs
+2025-09-28 17:21:22,988 - INFO - Saved JSON report: D:\Commerce_iq_assessment\outputs\diagnostic_report.json
+2025-09-28 17:21:22,991 - INFO - Saved CSV report: D:\Commerce_iq_assessment\outputs\diagnostic_report.csv
+2025-09-28 17:21:22,994 - INFO - Saved HTML report: D:\Commerce_iq_assessment\outputs\diagnostic_report.html
+2025-09-28 17:21:22,994 - INFO - Report generation pipeline completed successfully.

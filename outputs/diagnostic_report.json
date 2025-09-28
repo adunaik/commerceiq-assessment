@@ -1,0 +1,72 @@
+[
+    {
+        "issue": "Stockouts detected",
+        "count": 1,
+        "examples": [
+            "NT-TABLET-P6"
+        ],
+        "recommendation": "Restock immediately to avoid lost sales."
+    },
+    {
+        "issue": "Higher prices vs competitors",
+        "count": 18,
+        "examples": [
+            "NT-EARBUD-X1",
+            "NT-EARBUD-X1",
+            "NT-EARBUD-X1"
+        ],
+        "recommendation": "Revisit pricing strategy or improve product differentiation."
+    },
+    {
+        "issue": "Low return on marketing spend (ROI < 1.2)",
+        "count": 0,
+        "examples": [],
+        "recommendation": "Optimize ad targeting or pause underperforming campaigns."
+    },
+    {
+        "issue": "Ad spend wasted on zero-conversion products",
+        "count": 0,
+        "examples": [],
+        "recommendation": "Pause or redirect budget to performing campaigns."
+    },
+    {
+        "issue": "Stale or poor-quality marketplace listings",
+        "count": 1,
+        "examples": [
+            "2025-09-26T14:30:00Z"
+        ],
+        "recommendation": "Refresh titles, images, and descriptions for better visibility."
+    },
+    {
+        "issue": "Amazon listings with poor content quality",
+        "count": 2,
+        "examples": [
+            "NovaTech Wireless Earbuds X1 - Active Noise Cancelling",
+            "NovaTech 10.5\" Tablet P6 (128GB)"
+        ],
+        "recommendation": "Fix bullets, add enhanced content, improve images."
+    },
+    {
+        "issue": "Products missing descriptions",
+        "count": 0,
+        "examples": [],
+        "recommendation": "Add detailed descriptions to improve SEO and conversions."
+    },
+    {
+        "issue": "High-priority products at risk of stockout",
+        "count": 1,
+        "examples": [
+            "NT-TABLET-P6"
+        ],
+        "recommendation": "Replenish Tier A SKUs to protect key revenue drivers."
+    },
+    {
+        "issue": "Competitor promotions and new launches",
+        "count": 2,
+        "examples": [
+            "TechPro - ['TechPro Elite Buds']",
+            "AudioMax - ['earbuds', 'speakers']"
+        ],
+        "recommendation": "Prepare counter-promotions or highlight differentiators."
+    }
+]
