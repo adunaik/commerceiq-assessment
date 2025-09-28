@@ -28,3 +28,9 @@ Follow these steps to run the pipeline locally:
 ```bash
 git clone https://github.com/adunaik/commerceiq-assessment.git
 cd commerceiq-assessment/scripts_new
+
+### 2. python -m venv venv
+venv\Scripts\activate       # Windows
+# or
+source venv/bin/activate    # macOS/Linux
+
